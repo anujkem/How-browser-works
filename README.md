@@ -33,7 +33,7 @@ A web browser is a software application that helps you access and view websites 
     These resources might be loaded simultaneously or as you scroll down
     the page.
     
-    7. **Interactivity**:
+7. **Interactivity**:
       You can now interact with the web page. Clicking buttons, entering information into forms, and playing videos are examples of interactions handled by the browser through JavaScript.
 
 **Browser Components :**
@@ -61,20 +61,19 @@ When you open a website, the rendering engine goes through several steps:
 
 - **Parsing Explained**
 
-Parsing involves breaking down a document into a format that code can process, using:
- - **Lexical Analysis (Lexer)**: Converts text into tokens, the smallest units.
- - **Syntax Analysis (Parser)**: Applies grammar rules to organize tokens into a structure.
+   Parsing involves breaking down a document into a format that code can process, using:
+   - **Lexical Analysis (Lexer)**: Converts text into tokens, the smallest units.
+   - **Syntax Analysis (Parser)**: Applies grammar rules to organize tokens into a structure.
 
- - **HTML Parsing**: HTML requires unconventional parsers because it needs to handle errors and automatically correct them, ensuring that even flawed HTML can render properly. This process is guided by rules set by the HTML document type definition.
+   - **HTML Parsing**: HTML requires unconventional parsers because it needs to handle errors and automatically correct them, ensuring that even flawed HTML can render properly. This process is guided by   rules set by the HTML document type definition.
 
 - **Render Tree and Layout** :
 
- - **Render Tree**: Created alongside the DOM tree, representing visual elements.
- - **Layout (or Reflow in Mozilla)**: Determines the position and size of elements, often using a "dirty bit" system to optimize re-rendering.
+   - **Render Tree**: Created alongside the DOM tree, representing visual elements.
+   - **Layout (or Reflow in Mozilla)**: Determines the position and size of elements, often using a "dirty bit" system to optimize re-rendering.
 
-- **Painting**: The final step is painting, which involves:
-- Applying colors and images to the render tree elements.
-- Using global and incremental painting methods to optimize performance.
+- **Painting**:
+    The final step is painting, which Applying colors and images to the render tree elements. Using global and incremental painting methods to optimize performance.
 
 
 **Understanding how web browsers work is important for anyone who goes online. Browsers, like Google Chrome or Firefox, take the code of a website and turn it into what we see on our screens. They do this by following steps like parsing, which breaks down the code, and rendering, which makes it look nice. Components like the user interface and rendering engine all play a part. Learning about this helps us make better choices when surfing the web.**
