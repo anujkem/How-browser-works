@@ -4,7 +4,7 @@
 A web browser is a software application that helps you access and view websites on the internet. Popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. Browsers work by first taking the HTML, CSS, and JavaScript from a web page and parsing them into a structure that the computer can understand. This parsed structure is then turned into a render tree that outlines how the content should look visually. The browser then calculates the positions and sizes of elements through a process called layout or reflow. Finally, the browser paints the elements onto the screen, filling them with colors and images. This whole process allows us to see and interact with web pages.
 
 
-### how a web browser works ?:
+## how a web browser works ?:
 
 
 ![How Broswer Works?](https://browserstack.wpenginepowered.com/wp-content/uploads/2023/06/How-does-a-Browser-Work.png)                 
@@ -24,19 +24,20 @@ A web browser is a software application that helps you access and view websites 
     
 5. **Rendering the Page**:
       The browser takes the HTML, CSS, and JavaScript files it received and starts to render the page. Rendering means the browser translates these files into the visual representation you see on your screen.
-        - **HTML**: Defines the structure and content of the web page (e.g., headings, paragraphs, images).
-        - **CSS**: Styles the web page (e.g., colors, fonts, layout).
-        - **JavaScript**: Adds interactivity to the web page (e.g., animations, forms, dynamic content).
+
+   - **HTML**: Defines the structure and content of the web page (e.g., headings, paragraphs, images).
+   - **CSS**: Styles the web page (e.g., colors, fonts, layout).
+   - **JavaScript**: Adds interactivity to the web page (e.g., animations, forms, dynamic content).
     
-6. **Displaying the Content**:
+7. **Displaying the Content**:
       The browser displays the web page on your screen. It might also load additional resources like images, videos, and other media.
     These resources might be loaded simultaneously or as you scroll down
     the page.
     
-7. **Interactivity**:
+8. **Interactivity**:
       You can now interact with the web page. Clicking buttons, entering information into forms, and playing videos are examples of interactions handled by the browser through JavaScript.
 
-**Browser Components :**
+### Browser Components :
 
 A browser consists of several key components:
 
