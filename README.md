@@ -59,6 +59,11 @@ When you open a website, the rendering engine goes through several steps:
  4. **Painting**: Fills the elements with color and renders the final visual output.
 
 
+![Rendering Engine Workflow?](https://miro.medium.com/v2/resize:fit:1400/1*3Imspi9H9gdXg92ofdR7wQ.png)
+
+*PC: betterprogramming(dot)pub*
+
+
 
 - Parsing is the process of analyzing a document's structure and converting it into a format that the browser can understand. It involves two stages:
 
