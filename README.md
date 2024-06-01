@@ -1,3 +1,4 @@
+#How Browser Works?
 A web browser is a software application that helps you access and view websites on the internet. Popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. Browsers work by first taking the HTML, CSS, and JavaScript from a web page and parsing them into a structure that the computer can understand. This parsed structure is then turned into a render tree that outlines how the content should look visually. The browser then calculates the positions and sizes of elements through a process called layout or reflow. Finally, the browser paints the elements onto the screen, filling them with colors and images. This whole process allows us to see and interact with web pages.
 
 Here’s a basic rundown of how a web browser works:
@@ -38,7 +39,7 @@ A browser consists of several key components:
 - **UI Backend**: Used for drawing basic widgets.
 - **Data Persistence**: Manages storage options like cookies and local storage.
 
-**Rendering Engine Workflow**
+##**Rendering Engine Workflow**
 
 When you open a website, the rendering engine goes through several steps:
 
