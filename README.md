@@ -73,5 +73,7 @@ When you open a website, the rendering engine goes through several steps:
 
 - Painting applies colors, images, and styles to elements, creating the final visual output on the screen. Browsers use global and incremental painting methods to efficiently render webpages.
 
+  
 
-*Understanding how web browsers work is important for anyone who goes online. Browsers, like Google Chrome or Firefox, take the code of a website and turn it into what we see on our screens. They do this by following steps like parsing, which breaks down the code, and rendering, which makes it look nice. Components like the user interface and rendering engine all play a part. Learning about this helps us make better choices when surfing the web.*
+
+At last I can say that Understanding how web browsers work is important for anyone who goes online. Browsers, like Google Chrome or Firefox, take the code of a website and turn it into what we see on our screens. They do this by following steps like parsing, which breaks down the code, and rendering, which makes it look nice. Components like the user interface and rendering engine all play a part. Learning about this helps us make better choices when surfing the web.
